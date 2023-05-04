@@ -1,0 +1,19 @@
+@media (max-width:605px){
+    .btn
+    {
+        width: 90px;
+        height: 90px;
+    }
+
+    .box
+    {
+        width: 270px;
+        height: 90px;
+    }
+
+    .container
+    {
+        width: 275px;
+        height: 300px;
+    }
+}
