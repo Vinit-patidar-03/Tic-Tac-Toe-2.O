@@ -59,7 +59,7 @@ body
 
 .btn img
 {
-    width: 125px;
+    width: 100%;
     filter: invert();
 }
 
